@@ -27,9 +27,6 @@ def getData(char, move, mtype):
             except:
                 pass
     if (mtype == 0):
-        #print(parts)
-        #print(datalist)
-        #final = parts[0] + "**__\n" + datalist[0]
         return("WIP")
     elif (mtype == 1):
         for x in parts:
@@ -159,11 +156,6 @@ def getData(char, move, mtype):
     else:
         return("Something went wrong")
 
-        
 
-    #print(parts)
-    #print(datalist)
-    #return((' '.join(parts) + '\n' + ' '.join(datalist)))
-    #print(final)
     return(final)
 
