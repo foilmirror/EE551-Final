@@ -1,17 +1,5 @@
 import wiiu_scraper
 
-"""
-chars = ['Banjo', 'Bayonetta', 'Bowser', 'Bowser Jr.', 'Captain Falcon', 'Charizard', 'Chrom', 'Cloud',
-'Corrin', 'Daisy''Diddy Kong', 
-'Donkey Kong', 'Falco', 'Fox', 'Game & Watch', 'Ganondorf', 
-'Giga Bowser', 'Ice Climbers', 'Ike', 'Ivysaur', 'Jigglypuff', 
-'King Dedede', 'Kirby', 'Link', 'Lucario', 'Lucas', 'Luigi', 
-'Mario', 'Marth', 'Meta Knight', 'Ness', 'Olimar', 'Peach', 
-'Pikachu', 'Pit', 'R.O.B', 'Samus', 'Sheik', 'Snake', 'Sonic',
-'Squirtle', 'Toon Link', 'Wario', 'Wario-Man', 'Wolf', 'Yoshi',
-'Zelda', 'Zero Suit Samus']
-"""
-
 chars = [
     'mario',
     'donkeykong',
